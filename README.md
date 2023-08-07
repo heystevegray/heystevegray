@@ -3,6 +3,7 @@
 
 I build web apps and make angry robot music.
 
+
 <!--
 **heystevegray/heystevegray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I build apps with
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -29,4 +30,9 @@ Here are some ideas to get you started:
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Steve's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heystevegray&layout=compact&theme=radical)
+
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Steve%20Gray-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephengray191/)](https://www.linkedin.com/in/stephengray191/)-->
+
+
+<!--![Steve's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heystevegray&layout=compact&theme=radical)-->
